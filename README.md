@@ -4,7 +4,7 @@
 </p>
 
 # Homestead-Help
-The repository contains the Homestead Wiki; you can report issues and suggest ideas.
+Report issues or submit a suggestion.
 
 ## How to report a bug
 
